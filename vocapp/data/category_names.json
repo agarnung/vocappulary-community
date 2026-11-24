@@ -1,0 +1,23 @@
+{
+  "animals": { "es": "Animales", "en": "Animals", "fr": "Animaux", "it": "Animali" },
+  "food": { "es": "Comida", "en": "Food", "fr": "Nourriture", "it": "Cibo" },
+  "body": { "es": "Cuerpo", "en": "Body", "fr": "Corps", "it": "Corpo" },
+  "family": { "es": "Familia", "en": "Family", "fr": "Famille", "it": "Famiglia" },
+  "travel": { "es": "Viajes", "en": "Travel", "fr": "Voyage", "it": "Viaggi" },
+  "home": { "es": "Hogar", "en": "Home", "fr": "Maison", "it": "Casa" },
+  "work": { "es": "Trabajo", "en": "Work", "fr": "Travail", "it": "Lavoro" },
+  "technology": { "es": "Tecnología", "en": "Technology", "fr": "Technologie", "it": "Tecnologia" },
+  "emotions": { "es": "Emociones", "en": "Emotions", "fr": "Émotions", "it": "Emozioni" },
+  "nature": { "es": "Naturaleza", "en": "Nature", "fr": "Nature", "it": "Natura" },
+  "health": { "es": "Salud", "en": "Health", "fr": "Santé", "it": "Salute" },
+  "clothing": { "es": "Ropa", "en": "Clothing", "fr": "Vêtements", "it": "Abbigliamento" },
+  "sports": { "es": "Deportes", "en": "Sports", "fr": "Sport", "it": "Sport" },
+  "music": { "es": "Música", "en": "Music", "fr": "Musique", "it": "Musica" },
+  "education": { "es": "Educación", "en": "Education", "fr": "Éducation", "it": "Istruzione" },
+  "people": { "es": "Personas", "en": "People", "fr": "Personnes", "it": "Persone" },
+  "colors": { "es": "Colores", "en": "Colors", "fr": "Couleurs", "it": "Colori" },
+  "numbers": { "es": "Números", "en": "Numbers", "fr": "Nombres", "it": "Numeri" },
+  "time": { "es": "Tiempo", "en": "Time", "fr": "Temps", "it": "Tempo" },
+  "places": { "es": "Lugares", "en": "Places", "fr": "Lieux", "it": "Luoghi" },
+  "general": { "es": "General", "en": "General", "fr": "Général", "it": "Generale" }
+}

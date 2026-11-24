@@ -1,0 +1,1502 @@
+{
+  "cat": [
+    "gato"
+  ],
+  "dog": [
+    "perro"
+  ],
+  "house": [
+    "casa"
+  ],
+  "apple": [
+    "manzana"
+  ],
+  "car": [
+    "coche"
+  ],
+  "water": [
+    "agua"
+  ],
+  "fire": [
+    "incendio"
+  ],
+  "earth": [
+    "tierra"
+  ],
+  "air": [
+    "aire"
+  ],
+  "sun": [
+    "sol"
+  ],
+  "moon": [
+    "luna"
+  ],
+  "star": [
+    "estrella"
+  ],
+  "tree": [
+    "árbol"
+  ],
+  "flower": [
+    "flor"
+  ],
+  "book": [
+    "libro"
+  ],
+  "pen": [
+    "bolígrafo"
+  ],
+  "paper": [
+    "papel"
+  ],
+  "friend": [
+    "amigo"
+  ],
+  "family": [
+    "familia"
+  ],
+  "time": [
+    "tiempo"
+  ],
+  "day": [
+    "día"
+  ],
+  "night": [
+    "noche"
+  ],
+  "city": [
+    "ciudad"
+  ],
+  "country": [
+    "país"
+  ],
+  "world": [
+    "mundo"
+  ],
+  "life": [
+    "vida"
+  ],
+  "love": [
+    "amar"
+  ],
+  "heart": [
+    "corazón"
+  ],
+  "hand": [
+    "mano"
+  ],
+  "foot": [
+    "pie"
+  ],
+  "eye": [
+    "ojo"
+  ],
+  "ear": [
+    "oído"
+  ],
+  "nose": [
+    "nariz"
+  ],
+  "mouth": [
+    "boca"
+  ],
+  "head": [
+    "cabeza"
+  ],
+  "hair": [
+    "cabello"
+  ],
+  "food": [
+    "comida"
+  ],
+  "bread": [
+    "pan"
+  ],
+  "milk": [
+    "leche"
+  ],
+  "cheese": [
+    "queso"
+  ],
+  "meat": [
+    "carne"
+  ],
+  "fish": [
+    "pez"
+  ],
+  "rice": [
+    "arroz"
+  ],
+  "salt": [
+    "sal"
+  ],
+  "sugar": [
+    "azúcar"
+  ],
+  "coffee": [
+    "café"
+  ],
+  "tea": [
+    "té"
+  ],
+  "wine": [
+    "vino"
+  ],
+  "beer": [
+    "cerveza"
+  ],
+  "school": [
+    "escuela"
+  ],
+  "teacher": [
+    "profesor"
+  ],
+  "student": [
+    "estudiante"
+  ],
+  "work": [
+    "trabajo"
+  ],
+  "home": [
+    "hogar"
+  ],
+  "door": [
+    "puerta"
+  ],
+  "window": [
+    "ventana"
+  ],
+  "table": [
+    "tabla"
+  ],
+  "chair": [
+    "silla"
+  ],
+  "bed": [
+    "cama"
+  ],
+  "room": [
+    "habitación"
+  ],
+  "kitchen": [
+    "cocina"
+  ],
+  "bathroom": [
+    "baño"
+  ],
+  "street": [
+    "calle"
+  ],
+  "road": [
+    "carretera"
+  ],
+  "bridge": [
+    "puente"
+  ],
+  "river": [
+    "río"
+  ],
+  "mountain": [
+    "montaña"
+  ],
+  "sea": [
+    "mar"
+  ],
+  "ocean": [
+    "océano"
+  ],
+  "sky": [
+    "cielo"
+  ],
+  "cloud": [
+    "nube"
+  ],
+  "rain": [
+    "lluvia"
+  ],
+  "snow": [
+    "nieve"
+  ],
+  "wind": [
+    "viento"
+  ],
+  "cold": [
+    "frío"
+  ],
+  "hot": [
+    "calor"
+  ],
+  "good": [
+    "bueno"
+  ],
+  "bad": [
+    "malo"
+  ],
+  "big": [
+    "grande"
+  ],
+  "small": [
+    "pequeño"
+  ],
+  "high": [
+    "alto"
+  ],
+  "low": [
+    "bajo"
+  ],
+  "long": [
+    "largo"
+  ],
+  "short": [
+    "corto"
+  ],
+  "new": [
+    "nuevo"
+  ],
+  "old": [
+    "viejo"
+  ],
+  "young": [
+    "joven"
+  ],
+  "beautiful": [
+    "hermoso"
+  ],
+  "ugly": [
+    "feo"
+  ],
+  "rich": [
+    "rico"
+  ],
+  "poor": [
+    "pobre"
+  ],
+  "happy": [
+    "feliz"
+  ],
+  "sad": [
+    "triste"
+  ],
+  "angry": [
+    "enfadado"
+  ],
+  "calm": [
+    "tranquilo"
+  ],
+  "fast": [
+    "rápido"
+  ],
+  "slow": [
+    "lento"
+  ],
+  "strong": [
+    "fuerte"
+  ],
+  "weak": [
+    "débil"
+  ],
+  "hard": [
+    "duro"
+  ],
+  "soft": [
+    "suave"
+  ],
+  "light": [
+    "luz"
+  ],
+  "heavy": [
+    "pesado"
+  ],
+  "clean": [
+    "limpiar"
+  ],
+  "dirty": [
+    "sucio"
+  ],
+  "dry": [
+    "seco"
+  ],
+  "wet": [
+    "mojado"
+  ],
+  "full": [
+    "lleno"
+  ],
+  "empty": [
+    "vacío"
+  ],
+  "right": [
+    "derecho"
+  ],
+  "left": [
+    "izquierdo"
+  ],
+  "up": [
+    "arriba"
+  ],
+  "down": [
+    "abajo"
+  ],
+  "front": [
+    "frente"
+  ],
+  "back": [
+    "espalda"
+  ],
+  "inside": [
+    "dentro"
+  ],
+  "outside": [
+    "fuera"
+  ],
+  "here": [
+    "aquí"
+  ],
+  "there": [
+    "allí"
+  ],
+  "now": [
+    "ahora"
+  ],
+  "then": [
+    "entonces"
+  ],
+  "always": [
+    "siempre"
+  ],
+  "never": [
+    "nunca"
+  ],
+  "sometimes": [
+    "ocasionalmente"
+  ],
+  "often": [
+    "frecuentemente"
+  ],
+  "quickly": [
+    "rápidamente"
+  ],
+  "slowly": [
+    "lentamente"
+  ],
+  "well": [
+    "bien"
+  ],
+  "badly": [
+    "mal"
+  ],
+  "very": [
+    "muy"
+  ],
+  "too": [
+    "demasiado"
+  ],
+  "enough": [
+    "suficiente"
+  ],
+  "almost": [
+    "casi"
+  ],
+  "about": [
+    "sobre"
+  ],
+  "above": [
+    "encima"
+  ],
+  "below": [
+    "debajo"
+  ],
+  "between": [
+    "entre"
+  ],
+  "against": [
+    "contra"
+  ],
+  "without": [
+    "sin"
+  ],
+  "with": [
+    "con"
+  ],
+  "and": [
+    "y"
+  ],
+  "or": [
+    "o"
+  ],
+  "but": [
+    "pero"
+  ],
+  "because": [
+    "porque"
+  ],
+  "if": [
+    "si"
+  ],
+  "when": [
+    "cuando"
+  ],
+  "where": [
+    "dónde"
+  ],
+  "how": [
+    "cómo"
+  ],
+  "what": [
+    "qué"
+  ],
+  "who": [
+    "quién"
+  ],
+  "which": [
+    "cuál"
+  ],
+  "that": [
+    "que"
+  ],
+  "this": [
+    "este"
+  ],
+  "these": [
+    "estos"
+  ],
+  "those": [
+    "esos"
+  ],
+  "all": [
+    "todo"
+  ],
+  "some": [
+    "algunos"
+  ],
+  "any": [
+    "cualquier"
+  ],
+  "many": [
+    "muchos"
+  ],
+  "few": [
+    "pocos"
+  ],
+  "much": [
+    "mucho"
+  ],
+  "little": [
+    "poco"
+  ],
+  "more": [
+    "más"
+  ],
+  "less": [
+    "menos"
+  ],
+  "most": [
+    "más"
+  ],
+  "least": [
+    "menos"
+  ],
+  "first": [
+    "primero"
+  ],
+  "last": [
+    "último"
+  ],
+  "next": [
+    "siguiente"
+  ],
+  "previous": [
+    "anterior"
+  ],
+  "current": [
+    "actual"
+  ],
+  "past": [
+    "pasado"
+  ],
+  "future": [
+    "futuro"
+  ],
+  "today": [
+    "hoy"
+  ],
+  "tomorrow": [
+    "mañana"
+  ],
+  "yesterday": [
+    "ayer"
+  ],
+  "week": [
+    "semana"
+  ],
+  "month": [
+    "mes"
+  ],
+  "year": [
+    "año"
+  ],
+  "hour": [
+    "hora"
+  ],
+  "minute": [
+    "minuto"
+  ],
+  "second": [
+    "segundo"
+  ],
+  "morning": [
+    "mañana"
+  ],
+  "afternoon": [
+    "tarde"
+  ],
+  "evening": [
+    "noche"
+  ],
+  "spring": [
+    "primavera"
+  ],
+  "summer": [
+    "verano"
+  ],
+  "autumn": [
+    "otoño"
+  ],
+  "winter": [
+    "invierno"
+  ],
+  "January": [
+    "enero"
+  ],
+  "February": [
+    "febrero"
+  ],
+  "March": [
+    "marzo"
+  ],
+  "April": [
+    "abril"
+  ],
+  "May": [
+    "mayo"
+  ],
+  "June": [
+    "junio"
+  ],
+  "July": [
+    "julio"
+  ],
+  "August": [
+    "agosto"
+  ],
+  "September": [
+    "septiembre"
+  ],
+  "October": [
+    "octubre"
+  ],
+  "November": [
+    "noviembre"
+  ],
+  "December": [
+    "diciembre"
+  ],
+  "Monday": [
+    "lunes"
+  ],
+  "Tuesday": [
+    "martes"
+  ],
+  "Wednesday": [
+    "miércoles"
+  ],
+  "Thursday": [
+    "jueves"
+  ],
+  "Friday": [
+    "viernes"
+  ],
+  "Saturday": [
+    "sábado"
+  ],
+  "Sunday": [
+    "domingo"
+  ],
+  "red": [
+    "rojo"
+  ],
+  "blue": [
+    "azul"
+  ],
+  "green": [
+    "verde"
+  ],
+  "yellow": [
+    "amarillo"
+  ],
+  "black": [
+    "negro"
+  ],
+  "white": [
+    "blanco"
+  ],
+  "gray": [
+    "gris"
+  ],
+  "brown": [
+    "marrón"
+  ],
+  "orange": [
+    "naranja"
+  ],
+  "purple": [
+    "morado"
+  ],
+  "pink": [
+    "rosa"
+  ],
+  "gold": [
+    "oro"
+  ],
+  "silver": [
+    "plata"
+  ],
+  "one": [
+    "uno"
+  ],
+  "two": [
+    "dos"
+  ],
+  "three": [
+    "tres"
+  ],
+  "four": [
+    "cuatro"
+  ],
+  "five": [
+    "cinco"
+  ],
+  "six": [
+    "seis"
+  ],
+  "seven": [
+    "siete"
+  ],
+  "eight": [
+    "ocho"
+  ],
+  "nine": [
+    "nueve"
+  ],
+  "ten": [
+    "diez"
+  ],
+  "eleven": [
+    "once"
+  ],
+  "twelve": [
+    "doce"
+  ],
+  "thirteen": [
+    "trece"
+  ],
+  "fourteen": [
+    "catorce"
+  ],
+  "fifteen": [
+    "quince"
+  ],
+  "sixteen": [
+    "dieciséis"
+  ],
+  "seventeen": [
+    "diecisiete"
+  ],
+  "eighteen": [
+    "dieciocho"
+  ],
+  "nineteen": [
+    "diecinueve"
+  ],
+  "twenty": [
+    "veinte"
+  ],
+  "thirty": [
+    "treinta"
+  ],
+  "forty": [
+    "cuarenta"
+  ],
+  "fifty": [
+    "cincuenta"
+  ],
+  "sixty": [
+    "sesenta"
+  ],
+  "seventy": [
+    "setenta"
+  ],
+  "eighty": [
+    "ochenta"
+  ],
+  "ninety": [
+    "noventa"
+  ],
+  "hundred": [
+    "cien"
+  ],
+  "thousand": [
+    "mil"
+  ],
+  "million": [
+    "millón"
+  ],
+  "billion": [
+    "billón"
+  ],
+  "trillion": [
+    "billón"
+  ],
+  "zero": [
+    "cero"
+  ],
+  "number": [
+    "número"
+  ],
+  "letter": [
+    "letra"
+  ],
+  "word": [
+    "palabra"
+  ],
+  "sentence": [
+    "oración"
+  ],
+  "paragraph": [
+    "párrafo"
+  ],
+  "page": [
+    "página"
+  ],
+  "chapter": [
+    "capítulo"
+  ],
+  "story": [
+    "historia"
+  ],
+  "poem": [
+    "poema"
+  ],
+  "song": [
+    "canción"
+  ],
+  "music": [
+    "música"
+  ],
+  "art": [
+    "arte"
+  ],
+  "painting": [
+    "pintura"
+  ],
+  "drawing": [
+    "dibujo"
+  ],
+  "photo": [
+    "foto"
+  ],
+  "camera": [
+    "cámara"
+  ],
+  "movie": [
+    "película"
+  ],
+  "television": [
+    "televisión"
+  ],
+  "radio": [
+    "radio"
+  ],
+  "computer": [
+    "ordenador"
+  ],
+  "phone": [
+    "teléfono"
+  ],
+  "internet": [
+    "internet"
+  ],
+  "website": [
+    "web"
+  ],
+  "email": [
+    "email"
+  ],
+  "message": [
+    "mensaje"
+  ],
+  "call": [
+    "llamada"
+  ],
+  "game": [
+    "juego"
+  ],
+  "sport": [
+    "deporte"
+  ],
+  "ball": [
+    "pelota"
+  ],
+  "team": [
+    "equipo"
+  ],
+  "player": [
+    "jugador"
+  ],
+  "winner": [
+    "ganador"
+  ],
+  "loser": [
+    "perdedor"
+  ],
+  "prize": [
+    "premio"
+  ],
+  "money": [
+    "dinero"
+  ],
+  "price": [
+    "precio"
+  ],
+  "cost": [
+    "costo"
+  ],
+  "value": [
+    "valor"
+  ],
+  "free": [
+    "libre"
+  ],
+  "cheap": [
+    "barato"
+  ],
+  "expensive": [
+    "caro"
+  ],
+  "buy": [
+    "comprar"
+  ],
+  "sell": [
+    "vender"
+  ],
+  "shop": [
+    "tienda"
+  ],
+  "market": [
+    "mercado"
+  ],
+  "bank": [
+    "banco"
+  ],
+  "account": [
+    "cuenta"
+  ],
+  "card": [
+    "tarjeta"
+  ],
+  "cash": [
+    "efectivo"
+  ],
+  "pay": [
+    "pagar"
+  ],
+  "receive": [
+    "recibir"
+  ],
+  "give": [
+    "dar"
+  ],
+  "take": [
+    "tomar"
+  ],
+  "bring": [
+    "traer"
+  ],
+  "send": [
+    "enviar"
+  ],
+  "get": [
+    "conseguir"
+  ],
+  "find": [
+    "encontrar"
+  ],
+  "lose": [
+    "perder"
+  ],
+  "keep": [
+    "mantener"
+  ],
+  "save": [
+    "guardar"
+  ],
+  "spend": [
+    "gastar"
+  ],
+  "earn": [
+    "ganar"
+  ],
+  "need": [
+    "necesidad"
+  ],
+  "want": [
+    "querer"
+  ],
+  "like": [
+    "gustar"
+  ],
+  "dislike": [
+    "disgustar"
+  ],
+  "hate": [
+    "odiar"
+  ],
+  "hope": [
+    "esperanza"
+  ],
+  "fear": [
+    "temer"
+  ],
+  "think": [
+    "pensar"
+  ],
+  "know": [
+    "saber"
+  ],
+  "understand": [
+    "entender"
+  ],
+  "learn": [
+    "aprender"
+  ],
+  "study": [
+    "estudiar"
+  ],
+  "teach": [
+    "enseñar"
+  ],
+  "remember": [
+    "recordar"
+  ],
+  "forget": [
+    "olvidar"
+  ],
+  "believe": [
+    "creer"
+  ],
+  "doubt": [
+    "duda"
+  ],
+  "imagine": [
+    "imaginar"
+  ],
+  "create": [
+    "crear"
+  ],
+  "destroy": [
+    "destruir"
+  ],
+  "build": [
+    "construir"
+  ],
+  "make": [
+    "hacer"
+  ],
+  "do": [
+    "hacer"
+  ],
+  "act": [
+    "actuar"
+  ],
+  "play": [
+    "obra"
+  ],
+  "rest": [
+    "descansar"
+  ],
+  "sleep": [
+    "dormir"
+  ],
+  "wake": [
+    "despertar"
+  ],
+  "eat": [
+    "comer"
+  ],
+  "drink": [
+    "beber"
+  ],
+  "cook": [
+    "cocinar"
+  ],
+  "wash": [
+    "lavar"
+  ],
+  "dress": [
+    "vestir"
+  ],
+  "wear": [
+    "llevar"
+  ],
+  "put": [
+    "poner"
+  ],
+  "remove": [
+    "quitar"
+  ],
+  "open": [
+    "abrir"
+  ],
+  "close": [
+    "cerrar"
+  ],
+  "start": [
+    "inicio"
+  ],
+  "begin": [
+    "comenzar"
+  ],
+  "end": [
+    "fin"
+  ],
+  "finish": [
+    "acabado"
+  ],
+  "stop": [
+    "parar"
+  ],
+  "continue": [
+    "continuar"
+  ],
+  "go": [
+    "ir"
+  ],
+  "come": [
+    "venir"
+  ],
+  "arrive": [
+    "llegar"
+  ],
+  "leave": [
+    "salir"
+  ],
+  "enter": [
+    "entrar"
+  ],
+  "exit": [
+    "salir"
+  ],
+  "move": [
+    "mover"
+  ],
+  "run": [
+    "correr"
+  ],
+  "walk": [
+    "caminar"
+  ],
+  "jump": [
+    "saltar"
+  ],
+  "fly": [
+    "volar"
+  ],
+  "swim": [
+    "nadar"
+  ],
+  "drive": [
+    "conducir"
+  ],
+  "ride": [
+    "montar"
+  ],
+  "travel": [
+    "viajar"
+  ],
+  "visit": [
+    "visitar"
+  ],
+  "stay": [
+    "quedarse"
+  ],
+  "live": [
+    "vivir"
+  ],
+  "die": [
+    "morir"
+  ],
+  "born": [
+    "nacer"
+  ],
+  "grow": [
+    "crecer"
+  ],
+  "change": [
+    "cambio"
+  ],
+  "become": [
+    "convertirse"
+  ],
+  "seem": [
+    "parecer"
+  ],
+  "look": [
+    "mirar"
+  ],
+  "see": [
+    "ver"
+  ],
+  "watch": [
+    "mirar"
+  ],
+  "hear": [
+    "oír"
+  ],
+  "listen": [
+    "escuchar"
+  ],
+  "smell": [
+    "oler"
+  ],
+  "taste": [
+    "saborear"
+  ],
+  "touch": [
+    "tocar"
+  ],
+  "feel": [
+    "sentir"
+  ],
+  "hurt": [
+    "doler"
+  ],
+  "pain": [
+    "dolor"
+  ],
+  "health": [
+    "salud"
+  ],
+  "sick": [
+    "enfermo"
+  ],
+  "doctor": [
+    "médico"
+  ],
+  "hospital": [
+    "hospital"
+  ],
+  "medicine": [
+    "medicina"
+  ],
+  "help": [
+    "ayuda"
+  ],
+  "problem": [
+    "problema"
+  ],
+  "solution": [
+    "solución"
+  ],
+  "question": [
+    "pregunta"
+  ],
+  "answer": [
+    "respuesta"
+  ],
+  "truth": [
+    "verdad"
+  ],
+  "lie": [
+    "mentira"
+  ],
+  "secret": [
+    "secreto"
+  ],
+  "news": [
+    "noticias"
+  ],
+  "information": [
+    "información"
+  ],
+  "knowledge": [
+    "conocimiento"
+  ],
+  "wisdom": [
+    "sabiduría"
+  ],
+  "idea": [
+    "idea"
+  ],
+  "plan": [
+    "planificar"
+  ],
+  "project": [
+    "proyecto"
+  ],
+  "goal": [
+    "meta"
+  ],
+  "dream": [
+    "sueño"
+  ],
+  "wish": [
+    "deseo"
+  ],
+  "chance": [
+    "oportunidad"
+  ],
+  "luck": [
+    "suerte"
+  ],
+  "risk": [
+    "riesgo"
+  ],
+  "danger": [
+    "peligro"
+  ],
+  "safe": [
+    "seguro"
+  ],
+  "security": [
+    "seguridad"
+  ],
+  "peace": [
+    "paz"
+  ],
+  "war": [
+    "guerra"
+  ],
+  "fight": [
+    "pelea"
+  ],
+  "argument": [
+    "argumento"
+  ],
+  "agreement": [
+    "acuerdo"
+  ],
+  "promise": [
+    "promesa"
+  ],
+  "contract": [
+    "contrato"
+  ],
+  "law": [
+    "ley"
+  ],
+  "rule": [
+    "gobierno"
+  ],
+  "government": [
+    "gobierno"
+  ],
+  "president": [
+    "presidente"
+  ],
+  "king": [
+    "rey"
+  ],
+  "queen": [
+    "reina"
+  ],
+  "leader": [
+    "líder"
+  ],
+  "power": [
+    "poder"
+  ],
+  "freedom": [
+    "libertad"
+  ],
+  "duty": [
+    "deber"
+  ],
+  "responsibility": [
+    "responsabilidad"
+  ],
+  "job": [
+    "empleo"
+  ],
+  "career": [
+    "carrera"
+  ],
+  "business": [
+    "negocio"
+  ],
+  "company": [
+    "empresa"
+  ],
+  "office": [
+    "oficina"
+  ],
+  "factory": [
+    "fábrica"
+  ],
+  "product": [
+    "producto"
+  ],
+  "service": [
+    "servicio"
+  ],
+  "customer": [
+    "cliente"
+  ],
+  "client": [
+    "cliente"
+  ],
+  "user": [
+    "usuario"
+  ],
+  "consumer": [
+    "consumidor"
+  ],
+  "audience": [
+    "audiencia"
+  ],
+  "public": [
+    "público"
+  ],
+  "private": [
+    "privado"
+  ],
+  "personal": [
+    "personal"
+  ],
+  "social": [
+    "social"
+  ],
+  "culture": [
+    "cultura"
+  ],
+  "tradition": [
+    "tradición"
+  ],
+  "custom": [
+    "costumbre"
+  ],
+  "religion": [
+    "religión"
+  ],
+  "god": [
+    "dios"
+  ],
+  "faith": [
+    "fe"
+  ],
+  "soul": [
+    "alma"
+  ],
+  "spirit": [
+    "espíritu"
+  ],
+  "ghost": [
+    "fantasma"
+  ],
+  "angel": [
+    "ángel"
+  ],
+  "devil": [
+    "diablo"
+  ],
+  "heaven": [
+    "cielo"
+  ],
+  "hell": [
+    "infierno"
+  ],
+  "death": [
+    "muerte"
+  ],
+  "birth": [
+    "nacimiento"
+  ],
+  "age": [
+    "edad"
+  ],
+  "child": [
+    "niño"
+  ],
+  "baby": [
+    "bebé"
+  ],
+  "boy": [
+    "niño"
+  ],
+  "girl": [
+    "niña"
+  ],
+  "man": [
+    "hombre"
+  ],
+  "woman": [
+    "mujer"
+  ],
+  "father": [
+    "padre"
+  ],
+  "mother": [
+    "madre"
+  ],
+  "son": [
+    "hijo"
+  ],
+  "daughter": [
+    "hija"
+  ],
+  "brother": [
+    "hermano"
+  ],
+  "sister": [
+    "hermana"
+  ],
+  "husband": [
+    "marido"
+  ],
+  "wife": [
+    "esposa"
+  ],
+  "relative": [
+    "pariente"
+  ],
+  "enemy": [
+    "enemigo"
+  ],
+  "stranger": [
+    "extraño"
+  ],
+  "neighbor": [
+    "vecino"
+  ],
+  "guest": [
+    "invitado"
+  ],
+  "host": [
+    "anfitrión"
+  ],
+  "visitor": [
+    "visitante"
+  ],
+  "tourist": [
+    "turista"
+  ],
+  "lion": [
+    "león"
+  ],
+  "tiger": [
+    "tigre"
+  ],
+  "horse": [
+    "caballo"
+  ]
+}

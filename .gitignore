@@ -1,0 +1,71 @@
+# Entornos virtuales
+vocappulary_venv/
+venv/
+*.venv/
+
+# Archivos compilados / ejecutables
+*.exe
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+.coverage
+htmlcov/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Paquetes de escritorio / móvil
+*.apk
+*.aab
+*.dmg
+*.msi
+*.deb
+*.rpm
+*.AppImage
+*.zip
+
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+secrets*.json
+license.json
+*.license
+credentials.json
+.git-credentials
+*.jks
+*.keystore
+service-account*.json
+google-services.json
+GoogleService-Info.plist
+admob*.json
+
+# Datos locales, progreso y bases de datos
+user_data/
+data/local/
+*.sqlite
+*.sqlite3
+*.db
+
+# Cachés de herramientas
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp

@@ -1,0 +1,15 @@
+{
+  "en": {
+    "name": {
+      "es": "Inglés",
+      "en": "English",
+      "fr": "Anglais"
+    },
+    "label": "EN",
+    "color": "#2563EB",
+    "files": [
+      "palabras_en.json"
+    ],
+    "categories": "categories_en.json"
+  }
+}
