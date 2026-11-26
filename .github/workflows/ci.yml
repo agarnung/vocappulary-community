@@ -27,6 +27,7 @@ jobs:
       - run: python -m unittest discover -s tests -v
       - run: python -m pip install -r requirements.txt
       - run: pyinstaller --clean --noconfirm VocappularyCommunity.spec
+      - run: cp LICENSE dist/
       - name: Smoke test
         shell: bash
         run: |
@@ -44,7 +45,11 @@ jobs:
           if [ "$RUNNER_OS" = "Windows" ]; then
             powershell -Command "Compress-Archive -Path VocappularyCommunity.exe,LICENSE -DestinationPath VocappularyCommunity-windows.zip"
           elif [ "$RUNNER_OS" = "macOS" ]; then
-            tar -czf VocappularyCommunity-macos.tar.gz VocappularyCommunity.app LICENSE
+            if [ -d VocappularyCommunity.app ]; then
+              tar -czf VocappularyCommunity-macos.tar.gz VocappularyCommunity.app LICENSE
+            else
+              tar -czf VocappularyCommunity-macos.tar.gz VocappularyCommunity LICENSE
+            fi
           else
             tar -czf VocappularyCommunity-linux.tar.gz VocappularyCommunity LICENSE
           fi

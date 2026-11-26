@@ -1,3 +1,4 @@
 # La app no necesita dependencias externas: usa Tkinter, incluido con Python.
 # Solo se necesita PyInstaller para generar el ejecutable de escritorio.
 pyinstaller>=6.0
+pillow>=11.0
