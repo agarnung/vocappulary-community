@@ -36,3 +36,12 @@
 - [ ] Modo escucha y modo escritura.
 - [ ] Tests de interfaz y accesibilidad.
 - [ ] Revisión manual de las categorías inferidas.
+
+## Correo de soporte y dominio
+
+- Actual: `agarnungm@gmail.com`.
+- Objetivo: crear `agarnung.soporte@gmail.com` como cuenta dedicada.
+- Pasos: cuenta Google nueva, recuperación personal, 2FA, firma, etiquetas, filtros, respuesta automática y prueba de envío/recepción.
+- Futuro dominio: comprar dominio neutro, Cloudflare Email Routing y `soporte@dominio`.
+- Actualizar EULA, README, PRIVACY, Polar y la app cuando cambie.
+- Guía completa: `/opt/proyectos_personales/CORREO.md`.
