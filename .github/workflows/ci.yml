@@ -1,0 +1,61 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y python3-tk
+      - run: python -m unittest discover -s tests -v
+      - run: python -m pip install -r requirements.txt
+      - run: pyinstaller --clean --noconfirm VocappularyCommunity.spec
+      - name: Smoke test
+        shell: bash
+        run: |
+          if [ "$RUNNER_OS" = "Windows" ]; then
+            dist/VocappularyCommunity.exe --version
+          elif [ "$RUNNER_OS" = "macOS" ]; then
+            dist/VocappularyCommunity.app/Contents/MacOS/VocappularyCommunity --version
+          else
+            dist/VocappularyCommunity --version
+          fi
+      - name: Package
+        shell: bash
+        run: |
+          cd dist
+          if [ "$RUNNER_OS" = "Windows" ]; then
+            powershell -Command "Compress-Archive -Path VocappularyCommunity.exe,LICENSE -DestinationPath VocappularyCommunity-windows.zip"
+          elif [ "$RUNNER_OS" = "macOS" ]; then
+            tar -czf VocappularyCommunity-macos.tar.gz VocappularyCommunity.app LICENSE
+          else
+            tar -czf VocappularyCommunity-linux.tar.gz VocappularyCommunity LICENSE
+          fi
+      - name: Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/*.zip
+            dist/*.tar.gz
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VocappularyCommunity-${{ matrix.os }}
+          path: dist/
