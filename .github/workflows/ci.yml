@@ -34,7 +34,11 @@ jobs:
           if [ "$RUNNER_OS" = "Windows" ]; then
             dist/VocappularyCommunity.exe --version
           elif [ "$RUNNER_OS" = "macOS" ]; then
-            dist/VocappularyCommunity.app/Contents/MacOS/VocappularyCommunity --version
+            if [ -x dist/VocappularyCommunity.app/Contents/MacOS/VocappularyCommunity ]; then
+              dist/VocappularyCommunity.app/Contents/MacOS/VocappularyCommunity --version
+            else
+              dist/VocappularyCommunity --version
+            fi
           else
             dist/VocappularyCommunity --version
           fi
